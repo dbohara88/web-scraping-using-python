@@ -30,7 +30,7 @@ pip install html5lib
 
 ### Executing the program
 
-# How to run the program
+* How to run the program
 ```
 python3 main.py
 ```
