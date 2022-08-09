@@ -4,7 +4,7 @@
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.
 <br/>Web scraping is a process of automating the extraction of data in an efficient and fast way. With the help of web scraping, you can extract data from any website, no matter how large is the data, on your computer. 
 
-## Why web scraping is used?<br/>
+## Why Web Scraping is used?<br/>
 
 ### Competitor Price Monitoring 
 <br/>In this era of e-commerce, price plays a key role. You need to keep track of competitor pricing strategies.
