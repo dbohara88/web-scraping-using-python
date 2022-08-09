@@ -1,10 +1,10 @@
 # web-scraping-using-python
 
-What is Web Scraping ??
+What is Web Scraping ??<br/>
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.
 <br/>Web scraping is a process of automating the extraction of data in an efficient and fast way. With the help of web scraping, you can extract data from any website, no matter how large is the data, on your computer. 
 
-Why web scraping is used?
+Why web scraping is used?<br/>
 Competitor Price Monitoring 
 <br/>In this era of e-commerce, price plays a key role. You need to keep track of competitor pricing strategies.
 <br/>However, it is not possible to visit every website and check for the same. Web scraping comes to their rescue here.
